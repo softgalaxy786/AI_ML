@@ -7,6 +7,8 @@
 # Python 3.x AI_ML Program Function: 
 # 1. Find the minimum effort (substitue, insert, delete) required to make two strings (s,t) equal.
 #
+# References:
+# 1. https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX
 
 import sys
 import time
